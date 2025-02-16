@@ -4,7 +4,7 @@ document.getElementById("no").addEventListener("mouseover", function() {
     this.style.top = Math.random() * (window.innerHeight - this.offsetHeight) + "px";
 });
 document.getElementById("si").addEventListener("click", function() {
-    alert("¡No te arrepentirás! 💖");
+    alert("¡No te arrepentirás, TE AMO! 💖");
 });
 
 // Asegurar que la música se reproduzca en móviles
